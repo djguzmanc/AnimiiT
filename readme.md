@@ -3,6 +3,8 @@
 ## What is AnimiiT
 AnimiiT allows you to animate sprites, interacting with translation, rotation and sprite scaling.
 
+Developed with Processing and the experimental Proscene library.
+
 ### Use
 Once you've run the application you will see the interface, it is easy to use because it was made by aiming the better user experience.
 
